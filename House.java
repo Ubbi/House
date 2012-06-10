@@ -1,3 +1,5 @@
+package com.gmail.dubbiubbi.house;
+
 import org.bukkit.Location;
 
 public class House{
